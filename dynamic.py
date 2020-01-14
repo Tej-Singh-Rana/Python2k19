@@ -1,6 +1,6 @@
 #!/bin/python3
 
-#code for dynamic input !! 
+#code for dynamic input
 #for example :- python3 dynamic.py  10 20 30
 
 import time,sys,subprocess
